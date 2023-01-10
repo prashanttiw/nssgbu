@@ -4,7 +4,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>NSS GBU | Cloth Collection Drive Page</title>
+    <title>NSS GBU | Vivekanand Jayanti Page</title>
     <link rel="stylesheet" href="../css/style.css">
     <link rel="stylesheet" href="style-pg.css">
     <link rel="stylesheet" href="lightbox.css">
@@ -130,7 +130,7 @@
     <section class="in-banner" id="main-content">
         <div class="inheading">
             <div class="container-new">
-                <h2>Cloth Collection Drive(20-24/12/2022)</h2>
+                <h2>Cloth Distribution And Campus Cleaning(12/01/2023)</h2>
             </div>
         </div>
     </section>
@@ -143,11 +143,11 @@
 
             <style>
                 .img:nth-child(1) {
-                    background-image: url(/sites/photogallery/clothcollectiondrive20-24-12-2022/p-1.png);
+                    background-image: url();
                 }
 
                 .img:nth-child(2) {
-                    background-image: url(/sites/photogallery/clothcollectiondrive20-24-12-2022/p-2.jpeg);
+                    background-image: url(/sites/photogallery/viveknand\ jayanti12-01-2023/);
                 }
 
                 .img:nth-child(3) {
@@ -164,15 +164,19 @@
             </style>
 
             <div class="grid">
-                <a href="/sites/photogallery/clothcollectiondrive20-24-12-2022/p-1.png"
+                <a href="/sites/photogallery/viveknand jayanti12-01-2023/Poster on Swami Vivekanand Jayanti GBU NSS (2).jpg"
                     data-title="Cloth Collection Drive " data-Lightbox="lambo-img" class="img"></a>
-                <a href="/sites/photogallery/clothcollectiondrive20-24-12-2022/p-2.jpeg"
+                <a href="/sites/photogallery/viveknand jayanti12-01-2023/ClothDistributionDrive12-01-2023/p1.jpeg"
                     data-title="Cloth Collection Drive" data-Lightbox="lambo-img" class="img"></a>
-                <a href="/sites/photogallery/clothcollectiondrive20-24-12-2022/p-3.jpeg"
+                <a href="/sites/photogallery/viveknand jayanti12-01-2023/ClothDistributionDrive12-01-2023/p2.jpeg"
                     data-title=" Cloth Collection Drive" data-Lightbox="lambo-img" class="img"></a>
-                <a href="/sites/photogallery/clothcollectiondrive20-24-12-2022/p-4.jpg"
+                <a href="/sites/photogallery/viveknand jayanti12-01-2023/ClothDistributionDrive12-01-2023/p3.jpeg"
                     data-title=" Cloth Collection Drive" data-Lightbox="lambo-img" class="img"></a>
-                <a href="/sites/photogallery/clothcollectiondrive20-24-12-2022/p-5.jpg"
+                <a href="/sites/photogallery/viveknand jayanti12-01-2023/ClothDistributionDrive12-01-2023/p4.jpeg"
+                    data-title=" Cloth Collection Drive" data-Lightbox="lambo-img" class="img"></a>
+                    <a href="/sites/photogallery/viveknand jayanti12-01-2023/ClothDistributionDrive12-01-2023/p5.jpeg"
+                    data-title=" Cloth Collection Drive" data-Lightbox="lambo-img" class="img"></a>
+                    <a href="/sites/photogallery/viveknand jayanti12-01-2023/ClothDistributionDrive12-01-2023/p6.jpeg"
                     data-title=" Cloth Collection Drive" data-Lightbox="lambo-img" class="img"></a>
 
             </div>
