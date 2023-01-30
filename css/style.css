@@ -391,64 +391,111 @@ a {
 
 /*CSS of inbanner for All Pages END*/
 
+/CSS of WIM Page START/
+.team .member {
+    text-align: center;
+    margin-bottom: 20px;
+    box-shadow: 0px 0px 12px 0px rgba(0, 0, 0, 0.1);
+    padding: 30px 20px;
+    background: #fff;
+  }
+  
+  .team .member img {
+    max-width: 60%;
+    border-radius: 50%;
+    margin: 0 0 30px 0;
+  }
+  
+  .team .member h4 {
+    font-weight: 700;
+    margin-bottom: 2px;
+    font-size: 18px;
+  }
+  
+  .team .member span {
+    font-style: italic;
+    display: block;
+    font-size: 13px;
+  }
+  
+  .team .member p {
+    padding-top: 10px;
+    font-size: 14px;
+    font-style: italic;
+    color: #aaaaaa;
+  }
+  
+  .team .member .social {
+    margin-top: 15px;
+  }
+  
+  .team .member .social a {
+    color: #919191;
+    transition: 0.3s;
+  }
+  
+  .team .member .social a:hover {
+    color: #cc1616;
+  }
+  
+  .team .member .social i {
+    font-size: 18px;
+    margin: 0 2px;
+  }
 
-/*CSS of WIM Page START*/
-
-#wim {
-    background: url(/sites/leaderimg/leader-bg.jpg);
+  
+.section-title {
+    text-align: center;
     padding: 30px 0;
-    display: block;
-}
-
-.container-wim {
-    padding-right: 15px;
-    padding-left: 15px;
-    margin-right: auto;
-    margin-left: auto;
-}
-
-.row-wim {
-    margin-right: -15px;
-    margin-left: -15px;
-}
-
-.wim-list{
-    display: block;
-    list-style: none;
-    list-style-type: disc;
-    margin-block-start: 1em;
-    margin-block-end: 1em;
-    margin-inline-start: 0px;
-    margin-inline-end: 0px;
-    padding-inline-start: 40px;
-}
-
-.col-xs-12 {
-    width: 100%;
-}
-
-.ourser_wrap ul {
-    padding: 0;
-    margin: 0;
-}
-
-@media only screen and (max-width: 767px){
-.ourser_wrap ul li {
-    width: 100% !important;
-    float: none;
-}}
-
-@media only screen and (max-width: 767px){
-.ourser_wrap ul li {
-    margin: 0 0px !important;
-}}
-
-@media screen and (max-width: 750px){
-.ourser_wrap ul li {
-    min-height: 210px !important;
-}}
+    position: relative;
+  }
+  
+  .section-title h2 {
+    font-size: 32px;
+    font-weight: 700;
+    text-transform: uppercase;
+    margin-bottom: 20px;
+    padding-bottom: 0;
+    color: #191919;
+    position: relative;
+    z-index: 2;
+  }
+  
+  .section-title span {
+    position: absolute;
+    top: 30px;
+    color: #f4f4f4;
+    left: 0;
+    right: 0;
+    z-index: 1;
+    font-weight: 700;
+    font-size: 52px;
+    text-transform: uppercase;
+    line-height: 0;
+  }
+  
+  .section-title p {
+    margin-bottom: 0;
+    position: relative;
+    z-index: 2;
+  }
+  
+  @media (max-width: 575px) {
+    .section-title h2 {
+      font-size: 28px;
+      margin-bottom: 15px;
+    }
+  
+    .section-title span {
+      font-size: 38px;
+    }
+  }
+  
+  /*--------------------------------------------------------------
+  # Contact
+  -------------------------------------------------
 
 
 
-/*CSS of WIM Page END*/
+/CSS of WIM Page END
 
