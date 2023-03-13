@@ -15,6 +15,11 @@
     padding: 20px;
     overflow-x: hidden;
 }
+@media(max-width:990px){
+    .grid{
+         grid-template-columns: 1fr;
+    }
+}
 
 .img{
     width: 100%;

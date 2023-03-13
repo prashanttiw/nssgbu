@@ -298,7 +298,6 @@ a {
 .leader {
     display: block;
 }
-
 .leader ul {
     margin: 0;
     padding: 0;
@@ -521,3 +520,16 @@ a {
 
 
 /CSS of WIM Page END
+
+
+/*CSS of Photo Video Gallery Section START*/
+
+.pgsection{
+    padding: 0 50px 0 50px; margin: 10px;
+}
+
+@media(max-width:990px){
+    .pgsection{
+        padding: 0 35px 0 35px;
+    }
+}
